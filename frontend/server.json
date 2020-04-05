@@ -1,0 +1,28 @@
+{
+  "feed": [
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/DbT5QDR/destaque02-card.jpg",
+      "small": "https://i.ibb.co/S7mq6sk/destaque02-card-small.jpg",
+      "aspectRatio": 1.777,
+      "description": "Working hard at Rocketseat!",
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/z8dDbjK/destaque01-card.jpg",
+      "small": "https://i.ibb.co/4246VK6/destaque01-card-small.jpg",
+      "aspectRatio": 1.777,
+      "description": "Code, code and more code!",
+      "authorId": 2
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/b7Zwt4z/destaque03-card.jpg",
+      "small": "https://i.ibb.co/2Mgxs28/destaque03-card-small.jpg",
+      "aspectRatio": 1.777,
+      "description": "Rocketships fly away!",
+      "authorId": 3
+    }
+  ]
+}
